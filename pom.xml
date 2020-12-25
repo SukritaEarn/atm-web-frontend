@@ -12,6 +12,7 @@
 	<artifactId>atm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>atm</name>
+	<packaging>jar</packaging>
 	<description>Banking service website</description>
 
 	<properties>
